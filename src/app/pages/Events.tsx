@@ -26,7 +26,7 @@ const events = [
     description: 'Join us for a full day of insights into the latest trends in data engineering, AI, and analytics. Network with industry leaders and discover innovative solutions that are shaping the future of data management.',
     attendees: '50+ Attendees',
     category: 'Conference',
-    image: '/Users/jyothirmaichandolu/Downloads/MHK_website/public/images/team.jpeg',
+    image: '/public/images/team.jpeg',
     isPast: true
   },
   {
@@ -38,7 +38,7 @@ const events = [
     description: 'Be part of history as we officially launch Toreo Data to the world. Experience live demonstrations, meet our product team, and discover how Toreo Data can transform your data integration challenges.',
     attendees: '200+ Expected',
     category: 'Product Launch',
-    image: '/Users/jyothirmaichandolu/Downloads/MHK_website/public/images/toreo.png',
+    image: '/public/images/toreo.png',
     isPast: true
   },
   {
@@ -62,7 +62,7 @@ const events = [
     description: 'An exclusive evening for AI professionals and business leaders to discuss the impact of artificial intelligence on modern business. Enjoy fine dining while connecting with peers and thought leaders in the AI space.',
     attendees: '10+ Gathered',
     category: 'Networking',
-    image: '/Users/jyothirmaichandolu/Downloads/MHK_website/public/images/team dinner.jpeg',
+    image: '/public/images/team dinner.jpeg',
     isPast: true
   },
   {

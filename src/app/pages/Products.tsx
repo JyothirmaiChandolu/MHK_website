@@ -41,7 +41,7 @@ export function Products() {
               <div className="w-full max-w-md h-64 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl flex items-center justify-center border-2 border-blue-200 overflow-hidden">
                 {/* Replace this with your Toreo Data logo */}
                 <img 
-                  src="/src/images/toreo_data.jpeg" 
+                  src="/public/images/toreo_data.jpeg" 
                   alt="Toreo Data Logo" 
                   className="w-full h-full object-contain p-8"
                 />
