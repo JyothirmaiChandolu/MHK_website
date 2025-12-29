@@ -39,7 +39,7 @@ export function Navigation() {
           <div className="flex justify-between items-center h-16">
             <Link to="/" className="flex items-center space-x-2">
               <img 
-                src="/src/images/MHK logo1_new.svg" 
+                src="public/images/MHK logo1_new.svg" 
                 alt="MHK Tech Inc Logo" 
                 className="h-12 w-auto object-contain"
               />

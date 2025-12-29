@@ -69,7 +69,7 @@ export function WhoWeAre() {
               className="relative h-96 rounded-2xl overflow-hidden shadow-2xl bg-white p-8"
             >
               <ImageWithFallback
-                src="src/images/MHK logo1_new.svg"
+                src="/public/images/MHK logo1_new.svg"
                 alt="MHK Tech Inc Logo"
                 className="w-full h-full object-contain"
               />
@@ -198,7 +198,7 @@ export function WhoWeAre() {
               {/* CEO Image */}
               <div className="md:col-span-2 relative h-96 md:h-auto">
                 <ImageWithFallback
-                  src="src/images/rajesh.jpeg"
+                  src="/public/images/rajesh.jpeg"
                   className="w-full h-full object-cover"
                 />
               </div>

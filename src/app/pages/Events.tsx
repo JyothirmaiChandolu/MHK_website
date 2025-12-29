@@ -26,7 +26,7 @@ const events = [
     description: 'Join us for a full day of insights into the latest trends in data engineering, AI, and analytics. Network with industry leaders and discover innovative solutions that are shaping the future of data management.',
     attendees: '50+ Attendees',
     category: 'Conference',
-    image: '/src/images/team.jpeg',
+    image: '/Users/jyothirmaichandolu/Downloads/MHK_website/public/images/team.jpeg',
     isPast: true
   },
   {
@@ -38,7 +38,7 @@ const events = [
     description: 'Be part of history as we officially launch Toreo Data to the world. Experience live demonstrations, meet our product team, and discover how Toreo Data can transform your data integration challenges.',
     attendees: '200+ Expected',
     category: 'Product Launch',
-    image: '/src/images/toreo.png',
+    image: '/Users/jyothirmaichandolu/Downloads/MHK_website/public/images/toreo.png',
     isPast: true
   },
   {
@@ -50,7 +50,7 @@ const events = [
     description: 'Join our campus recruitment drive to discover exciting career opportunities at MHK Tech Inc. We\'re looking for talented individuals to join our growing team across various departments.',
     attendees: '300+ Expected',
     category: 'Recruitment',
-    image: '/src/images/drives2.jpeg',
+    image: '/public/images/drives2.jpeg',
     isPast: true
   },
   {
@@ -62,7 +62,7 @@ const events = [
     description: 'An exclusive evening for AI professionals and business leaders to discuss the impact of artificial intelligence on modern business. Enjoy fine dining while connecting with peers and thought leaders in the AI space.',
     attendees: '10+ Gathered',
     category: 'Networking',
-    image: '/src/images/team dinner.jpeg',
+    image: '/Users/jyothirmaichandolu/Downloads/MHK_website/public/images/team dinner.jpeg',
     isPast: true
   },
   {
@@ -74,7 +74,7 @@ const events = [
     description: 'Our team gathered at our workplace and celebrated Christmas day with various fun activities, games, and festivities. A wonderful day of team bonding and holiday cheer!',
     attendees: '10+ Team Members',
     category: 'Celebration',
-    image: '/src/images/christmas.jpeg',
+    image: '/public/images/christmas.jpeg',
     isPast: true
   }
 ];
