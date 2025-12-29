@@ -62,7 +62,7 @@ const events = [
     description: 'An exclusive evening for AI professionals and business leaders to discuss the impact of artificial intelligence on modern business. Enjoy fine dining while connecting with peers and thought leaders in the AI space.',
     attendees: '10+ Gathered',
     category: 'Networking',
-    image: '/public/images/team dinner.jpeg',
+    image: '/public/images/team_dinner.jpeg',
     isPast: true
   },
   {
