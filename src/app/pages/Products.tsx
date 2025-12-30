@@ -41,7 +41,7 @@ export function Products() {
               <div className="w-full max-w-md h-64 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl flex items-center justify-center border-2 border-blue-200 overflow-hidden">
                 {/* Replace this with your Toreo Data logo */}
                 <img 
-                  src="/public/images/toreo_data.jpeg" 
+                  src="/public/toreo_data.jpeg" 
                   alt="Toreo Data Logo" 
                   className="w-full h-full object-contain p-8"
                 />
@@ -134,7 +134,7 @@ export function Products() {
                 {/* Video Thumbnail */}
                 <div className="relative w-full h-72 bg-gradient-to-br from-gray-800 to-gray-900 rounded-2xl overflow-hidden shadow-2xl">
                   <ImageWithFallback
-                    src="/public/images/toreo_data.jpeg"
+                    src="/public/toreo_data.jpeg"
                     alt="Video thumbnail"
                     className="w-full h-full object-cover opacity-60"
                   />
@@ -172,7 +172,7 @@ export function Products() {
                   autoPlay
                   playsInline
                 >
-                  <source src="http://localhost:5173/public/images/file.mp4" type="video/mp4" />
+                  <source src="http://localhost:5173/public/file.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
                 </video>
               </div>
